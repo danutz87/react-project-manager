@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import uuid from 'uuid';
+import AddProject from './AddProject';
 
 class App extends Component {
   constructor(props) {
